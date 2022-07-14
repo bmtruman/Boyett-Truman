@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bmtruman
+- 👋 Hi, I’m @Boyett Truman
 - 👀 I’m interested in Data Science, Machine Learning and Gaming
 - 🌱 I’m currently learning Python, R and C#
 - 💞️ I’m looking to collaborate on ...
